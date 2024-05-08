@@ -5,7 +5,7 @@ This is a content generator that uses OpenAI's GPT-3.5-turbo model to generate c
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Cruz455/Wordsmith-AI.git
 
 2. Navigate to the project directory:
 cd your-repository
