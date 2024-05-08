@@ -26,23 +26,20 @@ python content_generator.py
 
 ## API
 
-The content generator also provides an API endpoint for generating content programmatically.
+## API Endpoint
 
-- Endpoint: `/generate`
-- Method: POST
-- Request Body:
-```json
-{
- "format": "LinkedIn post",
- "topic": "Generative AI",
- "emotion": "excited",
- "length": 100
-}
+The Content Generator also provides an API endpoint for generating content programmatically.
 
-Response:
-jsonCopy code{
-  "text": "Generated content here..."
-}
+- **Endpoint:** `/generate`
+- **Method:** `POST`
+- **Request Body:**
+  ```json
+  {
+    "format": "LinkedIn post",
+    "topic": "Generative AI",
+    "emotion": "excited",
+    "length": 100
+  }
 
 
 Note: Make sure to replace the OpenAI API key in the code with your own valid API key.
