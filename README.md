@@ -1,4 +1,4 @@
-# Content Generator API
+# Wordsmith-AI
 
 This repository contains a Content Generator API that generates content based on a given format, topic, emotion, and length using OpenAI's GPT-3.5-turbo model.
 
