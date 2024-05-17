@@ -1,6 +1,7 @@
 # Wordsmith-AI            
-This ![Wordsmith](https://github.com/Cruz455/Wordsmith-AI/assets/117976019/6fecf7e9-cd05-45f7-a2e3-82949834b592)
-repository contains a Content Generator API that generates content based on a given format, topic, emotion, and length using OpenAI's GPT-3.5-turbo model.
+  ![Wordsmith](https://github.com/Cruz455/Wordsmith-AI/assets/117976019/6fecf7e9-cd05-45f7-a2e3-82949834b592)
+
+This repository contains a Content Generator API that generates content based on a given format, topic, emotion, and length using OpenAI's GPT-3.5-turbo model.
 
 ## Features
 
